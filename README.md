@@ -169,7 +169,7 @@ Predict movie genres for unseen movie descriptions.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Movie-Genre-Classification-CODSOFT.git
+git clone https://github.com/Prathameshkamble195350/Movie-Genre-Classification-CODSOFT.git
 ```
 
 ### Install Dependencies
